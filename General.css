@@ -1,0 +1,31 @@
+* {	margin: 0; padding: 0; box-sizing: border-box; font-family: "Agency fb"; font-size: 16px; }
+body { background-image: url("img/Fondo.jpg");	background-size: cover; background-attachment: fixed; }
+
+
+
+/********************************************** L O G I N **********************************************************/
+
+form { float: right; margin: 180px 300px 0 0; }
+input { width: 300px; height: 25px;  border-radius: 3px; margin-bottom: 10px; }
+#Entrar { width: 100px; height: 30px; font-size: 19px; background-color: #cb0202; color: white; margin: 5px 0 0 0; }
+#Logo /*IMAGEN*/ { float: left; margin: 150px 0 0 250px; }
+#Linea /*IMAGEN*/ { margin: 100px 0 0 60px; }
+p { text-align: center; font-size: 20px;  }
+#p1 { text-align: center; font-size: 36px; margin-top: 70px; }
+
+
+
+/********************************************** I N D E X **********************************************************/
+
+section img /*LOGO*/ { height: 100px; width: 180px; margin: 50px 0 0 150px; }
+section p { float: right; margin: 55px 160px 0 0; text-align: left; font-family: "Consolas"; font-size: 14px;}
+section a { text-decoration: none; color: black; font-family: "Consolas"; font-size: 13px; }
+section a:hover { color: darkred; font-weight: bold;}
+section #Volver:hover { color: darkgreen; font-weight: bold;}
+#Horizontal /*LINEA*/ {margin: 20px 0 0 100px; width: 1150px; height: 12px; align-self: center; }
+
+article #index { width: 70%; margin: 3% 0 1% 15%; border-spacing: 15px 10px; }
+article #indextd, #indextr { border-radius: 20px; background-color: rgba(0,0,0,0.05); width: 30%; border: none; }
+article #index img { width: 40%; height: auto; display: block; margin: 20px auto 20px auto; }
+
+footer { width: 100%; text-align: center; margin: 80px 0 10px 0; font-family: "Verdana"; font-size: 10px; }

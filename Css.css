@@ -1,0 +1,61 @@
+
+/******************************************** P R O D U C T O S **************************************************/
+
+article form { margin: 50px 175px 0 0; width: 75%; }
+article fieldset { border: 1px solid; text-align: center; margin-top: -40px;}
+article fieldset #uno { float: left; }
+article fieldset #dos { float: right; margin: 0 45px 0 0; }
+article fieldset legend { width: 30%; color: white; background-color: darkred; text-align: center; padding: 5px; font-family: "Consolas"; font-size: 13px; }
+article div { text-align: right; font-family: "Consolas"; font-size: 12px; margin: 0px 20px -3px 25px; }
+article input, textarea, select { width: 300px; font-family: "Consolas"; font-size: 12px; }
+article input[type="submit"] { width: 40%; height: 30px;  padding: 4px; color: white; background-color: darkred; border-radius: 7px; font-family: "Consolas"; font-size: 13px; margin-right: 70px; }
+article input[type="submit"]:hover, input[type="submit"]:active { cursor: pointer; background-color: green; color: white; }
+
+#Inventario #iv{width: 100px;}
+
+#if{width: 180px;}
+
+article #b[type="submit"] { width: 60px; height: 30px; padding: 4px; color: white; background-color: darkblue; border-radius: 7px; font-family: "Consolas"; font-size: 13px; margin: 0 0 0 170px ;}
+article #b[type="submit"]:hover, input[type="submit"]:active { cursor: pointer; background-color: darkgreen; }
+
+#Inventario #bf[type="submit"] { width: 60px; height: 30px; padding: 4px; color: white; background-color: darkblue; border-radius: 7px; font-family: "Consolas"; font-size: 13px; margin: 0 0 0 10px ;}
+#Inventario #bf[type="submit"]:hover, input[type="submit"]:active { cursor: pointer; background-color: darkgreen; }
+
+article #btn[type="submit"] { width: 60px; height: 30px; padding: 4px; color: white; background-color: darkred; border-radius: 7px; font-family: "Consolas"; font-size: 13px; margin: -20px 0 0 -500px ;}
+article #btn[type="submit"]:hover, input[type="submit"]:active { cursor: pointer; background-color: darkgreen; }
+
+#analisis fieldset #uno { float: left; margin-left: 70px;}
+#analisis form { margin: 30px 175px 0 0; width: 75%; }
+#analisis table { width: 80%; background-color: white; border-collapse: collapse; vertical-align: center; text-align: center; margin-left: 100px;} 
+#analisis tr, td { width: 10%; height: 40px; border: 1px solid gray; border-left: hidden; border-right: hidden; font-family: "Verdana"; font-size: 11px; }
+#analisis #invh { background-color: dimgrey; color: white; }
+
+
+th {font-family: "Verdana"; font-size: 11px; background-color: dimgrey; color: white;}
+article #fecha { width: 150px; font-family: "Consolas"; font-size: 13px; }
+
+article #productos {border: 1px solid; text-align: center; margin: 0 0 0 0;}
+article #dosm {float: right; margin: 0 80px 0 0;}
+article #dosm textarea {width: 380px; height: 90px;}
+
+#Inventario form { margin: 30px 175px 0 0; width: 75%; }
+#Inventario table { background-color: white; border-collapse: collapse; vertical-align: center; text-align: center; } 
+#Inventario #img { width: 5%;}
+#Inventario tr, td { width: 10%; height: 40px; border: 1px solid gray; border-left: hidden; border-right: hidden; font-family: "Verdana"; font-size: 11px; }
+#Inventario img { margin: 0 0 0 10px; height: 30px; width: 30px; }
+
+
+#Inventario .Inventario { width: 90%; margin: 0 0 0 50px; }
+#Inventario .Historial { width: 90%; margin: 0 0 0 50px; }
+#Inventario #invh { background-color: dimgrey; color: white; }
+
+#botonhh { width: 70px; height: 30px;  padding: 4px; background-color: darkgreen;color: white; border-radius: 7px; margin:0 0 0 0; font-size: 13px; }
+
+#botonh { width: 45px; height: 45px;  padding: 6px; background-color: darkgreen; border-radius: 7px; margin: 0 0 0 10px; float: left;}
+#botonh img { height: 30px; width: 30px; margin: 0 0 0 0;}
+#boton { width: 45px; height: 45px;  padding: 6px; background-color: darkblue; border-radius: 7px; margin: 0 0 0 55px; float: left;}
+#boton img { height: 30px; width: 30px; margin: 0 0 0 0;}
+
+#mermas .Inventario {width: 80%;  margin: 0 0 0 100px; background-color: white; }
+#mermas #invh { background-color: dimgrey; color: white; }
+#mermas input[type="submit"] { width: 40%; height: 30px;  padding: 4px; color: white; background-color: darkred; border-radius: 7px; font-family: "Consolas"; font-size: 13px; margin-right: 110px; 
